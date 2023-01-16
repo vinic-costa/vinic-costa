@@ -10,9 +10,11 @@ Atualmente sou estudante de Engenharia da computação na UFC e fazendo formaç�
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinic-costa&layout=compact&langs_count=10&theme=dark"/>
 
   <!-- TEMAS: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
-</div>
+<div align="center">
 
-
+![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 </div>
 
 <!-- REDES SOCIAIS -->
