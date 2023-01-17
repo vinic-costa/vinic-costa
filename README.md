@@ -1,4 +1,4 @@
-## Boas vindas ao meu Perfil 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%SkyBlue&lines=Welcome+to+my+profile)](https://github.com/Programador-jr)
 
 Meu nome é Vinicius Costa, sou apaixonado pela área de dados e programação e estudo essa área desde 2019.
 
@@ -6,8 +6,8 @@ Atualmente sou estudante de Engenharia da computação na UFC e fazendo formaç�
 
 <!-- GITHUB STATUS -->
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinic-costa&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinic-costa&layout=compact&langs_count=10&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinic-costa&show_icons=true&theme=gruvbox"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinic-costa&layout=compact&theme=dark"/>
 
   <!-- TEMAS: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
 <div align="center">
