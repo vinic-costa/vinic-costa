@@ -2,13 +2,13 @@
 
 Meu nome é Vinicius Costa, sou apaixonado pela área de dados e programação e estudo essa área desde 2019.
 
-Atualmente sou estudante de Engenharia da computação na UFC e fazendo formação em dados na DNC.vinic-costa
+Atualmente sou estudante de Engenharia da computação na UFC e fazendo formação em dados na DNC.
 
 <!-- GITHUB STATUS -->
 <hr>
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinic-costa&show_icons=true&theme=gruvbox"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinic-costa&layout=compact&theme=dark"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=vinic-costa&show_icons=true&theme=gruvbox"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinic-costa&layout=compact&theme=dark"/>
 
   <!-- TEMAS: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
 <div align="center">
