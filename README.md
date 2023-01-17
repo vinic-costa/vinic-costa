@@ -7,8 +7,8 @@ Atualmente sou estudante de Engenharia da computação na UFC e fazendo formaç�
 <!-- GITHUB STATUS -->
 <hr>
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=vinic-costa&show_icons=true&theme=gruvbox"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinic-costa&layout=compact&theme=dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=vinic-costa&show_icons=true&theme=gruvbox"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinic-costa&layout=compact&theme=dark"/>
 
   <!-- TEMAS: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
 <div align="center">
