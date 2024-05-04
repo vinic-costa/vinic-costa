@@ -1,7 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%SkyBlue&lines=Welcome+to+my+profile)](https://github.com/Programador-jr)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%SkyBlue&lines=Welcome+to+my+profile)](https://github.com/Programador-jr)
-
 <h1 align="center">Olá, eu sou Vinicius Costa</h1>
 <h3 align="center">Um Cientista de dados em busca de insights 📊</h3>
 
