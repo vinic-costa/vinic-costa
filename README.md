@@ -39,7 +39,7 @@
   <code><img title="MySql" height="25" src="imagens/mysql-ar21.svg"></code>
   <code><img title="SQlite" height="25" src="imagens/sqlite-icon.svg"></code>
   <code><img title="Mongodb" height="25" src="imagens/mongodb-icon-2.svg"></code>
-  <code><img title="AWS" height="25" src="imagens/aws.svg"></code>
+  <code><img title="AWS" height="25" src="imagens/aws.png"></code>
   <code><img title="Git" height="25" src="imagens/git-original.svg"></code>
 </p>
 <hr>
