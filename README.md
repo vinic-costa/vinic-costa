@@ -14,34 +14,34 @@
 <br>
 
 <p align="center">
-  <code><img title="Python" height="25" src="images/python-5.svg"></code>
-  <code><img title="R" height="25" src="images/R_logo.svg"></code>
-  <code><img title="Javascript" height="25" src="images/logo-javascript.svg"></code>
-  <code><img title="Typescript" height="25" src="images/typescript.svg"></code>
-  <code><img title="C" height="25" src="images/C_Programming_Language.svg"></code>
-  <code><img title="C++" height="25" src="images/cplus.svg"></code>
-  <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
-  <code><img title="Matlab" height="25" src="images/matlab.svg"></code>
-  <code><img title="React" height="25" src="images/react-2.svg"></code>
-  <code><img title="Express" height="25" src="images/express-109.svg"></code>
-  <code><img title="Node" height="25" src="images/nodejs-2.svg"></code>
-  <code><img title="HTML" height="25" src="images/html-5-logo-svgrepo-com.svg"></code>
-  <code><img title="CSS" height="25" src="images/CSS.3.svg"></code>
-  <code><img title="Figma" height="25" src="images/Figma-logo.svg"></code>
-  <code><img title="bootstrap" height="25" src="images/bootstrap-svgrepo-com.svg"></code>
-  <code><img title="Tailwind" height="25" src="images/tailwind-css-2.svg"></code>
-  <code><img title="Materialize" height="25" src="images/materialize-css-1.svg"></code>
-  <code><img title="Django" height="25" src="images/django.svg"></code>
-  <code><img title="Pytorch" height="25" src="images/pytorch-2.svg"></code>
-  <code><img title="Scikit-learn" height="25" src="images/scikit-learn.svg"></code>
-  <code><img title="Pandas" height="25" src="images/pandas.svg"></code>
-  <code><img title="OpenCV" height="25" src="images/opencv-svgrepo-com.svg"></code>
-  <code><img title="TensorFlow" height="25" src="images/tensorflow-2.svg"></code>
-  <code><img title="MySql" height="25" src="images/mysql-ar21.svg"></code>
-  <code><img title="SQlite" height="25" src="images/sqlite.svg"></code>
-  <code><img title="Mongodb" height="25" src="images/mongodb-icon-2.svg"></code>
-  <code><img title="AWS" height="25" src="images/Amazon_Web_Services_Logo.svg"></code>
-  <code><img title="Git" height="25" src="images/dotnetcore.svg"></code>
+  <code><img title="Python" height="25" src="imagens/python-5.svg"></code>
+  <code><img title="R" height="25" src="imagens/R_logo.svg"></code>
+  <code><img title="Javascript" height="25" src="imagens/logo-javascript.svg"></code>
+  <code><img title="Typescript" height="25" src="imagens/typescript.svg"></code>
+  <code><img title="C" height="25" src="imagens/C_Programming_Language.svg"></code>
+  <code><img title="C++" height="25" src="imagens/cplus.svg"></code>
+  <code><img title="Visual Studio Code" height="25" src="imagens/vscode.png"></code>
+  <code><img title="Matlab" height="25" src="imagens/matlab.svg"></code>
+  <code><img title="React" height="25" src="imagens/react-2.svg"></code>
+  <code><img title="Express" height="25" src="imagens/express-109.svg"></code>
+  <code><img title="Node" height="25" src="imagens/nodejs-2.svg"></code>
+  <code><img title="HTML" height="25" src="imagens/html-5-logo-svgrepo-com.svg"></code>
+  <code><img title="CSS" height="25" src="imagens/CSS.3.svg"></code>
+  <code><img title="Figma" height="25" src="imagens/Figma-logo.svg"></code>
+  <code><img title="bootstrap" height="25" src="imagens/bootstrap-svgrepo-com.svg"></code>
+  <code><img title="Tailwind" height="25" src="imagens/tailwind-css-2.svg"></code>
+  <code><img title="Materialize" height="25" src="imagens/materialize-css-1.svg"></code>
+  <code><img title="Django" height="25" src="imagens/django.svg"></code>
+  <code><img title="Pytorch" height="25" src="imagens/pytorch-2.svg"></code>
+  <code><img title="Scikit-learn" height="25" src="imagens/scikit-learn.svg"></code>
+  <code><img title="Pandas" height="25" src="imagens/pandas.svg"></code>
+  <code><img title="OpenCV" height="25" src="imagens/opencv-svgrepo-com.svg"></code>
+  <code><img title="TensorFlow" height="25" src="imagens/tensorflow-2.svg"></code>
+  <code><img title="MySql" height="25" src="imagens/mysql-ar21.svg"></code>
+  <code><img title="SQlite" height="25" src="imagens/sqlite.svg"></code>
+  <code><img title="Mongodb" height="25" src="imagens/mongodb-icon-2.svg"></code>
+  <code><img title="AWS" height="25" src="imagens/Amazon_Web_Services_Logo.svg"></code>
+  <code><img title="Git" height="25" src="imagens/dotnetcore.svg"></code>
 </p>
 <hr>
 
