@@ -9,6 +9,10 @@
 
 - 🌱 Atualmente estou aprendendo **Ciência de Dados, Big Data e BI**
 
+
+<h1 align="center">Linguagens de Programação</h1>
+
+
 <!-- GITHUB STATUS -->
 <hr>
 <div align="center">
