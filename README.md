@@ -37,7 +37,7 @@
   <code><img title="OpenCV" height="25" src="imagens/opencv-svgrepo-com.svg"></code>
   <code><img title="TensorFlow" height="25" src="imagens/tensorflow-2.svg"></code>
   <code><img title="MySql" height="25" src="imagens/mysql-ar21.svg"></code>
-  <code><img title="SQlite" height="25" src="imagens/sqlite.svg"></code>
+  <code><img title="SQlite" height="25" src="imagens/sqlite-icon.svg"></code>
   <code><img title="Mongodb" height="25" src="imagens/mongodb-icon-2.svg"></code>
   <code><img title="AWS" height="25" src="imagens/aws.svg"></code>
   <code><img title="Git" height="25" src="imagens/git-original.svg"></code>
