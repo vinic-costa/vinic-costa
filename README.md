@@ -14,33 +14,33 @@
 <br>
 
 <p align="center">
-  <code><img title="Python" height="25" src="imagens/python-5.svg"></code>
-  <code><img title="R" height="25" src="imagens/R_logo.svg"></code>
-  <code><img title="Javascript" height="25" src="imagens/logo-javascript.svg"></code>
-  <code><img title="Typescript" height="25" src="imagens/typescript.svg"></code>
-  <code><img title="C" height="25" src="imagens/C_Programming_Language.svg"></code>
-  <code><img title="C++" height="25" src="imagens/cplus.svg"></code>
-  <code><img title="Visual Studio Code" height="25" src="imagens/vscode.svg"></code>
-  <code><img title="Matlab" height="25" src="imagens/matlab.svg"></code>
-  <code><img title="React" height="25" src="imagens/react-2.svg"></code>
-  <code><img title="Node" height="25" src="imagens/nodejs-2.svg"></code>
-  <code><img title="HTML" height="25" src="imagens/html-5-logo-svgrepo-com.svg"></code>
-  <code><img title="CSS" height="25" src="imagens/CSS.3.svg"></code>
-  <code><img title="Figma" height="25" src="imagens/Figma-logo.svg"></code>
-  <code><img title="bootstrap" height="25" src="imagens/bootstrap.svg"></code>
-  <code><img title="Tailwind" height="25" src="imagens/tailwind-css-2.svg"></code>
-  <code><img title="Materialize" height="25" src="imagens/materialize.svg"></code>
-  <code><img title="Django" height="25" src="imagens/django.svg"></code>
-  <code><img title="Pytorch" height="25" src="imagens/pytorch.svg"></code>
-  <code><img title="Scikit-learn" height="25" src="imagens/scikit-learn.svg"></code>
-  <code><img title="Pandas" height="25" src="imagens/pandas.svg"></code>
-  <code><img title="OpenCV" height="25" src="imagens/opencv-svgrepo-com.svg"></code>
-  <code><img title="TensorFlow" height="25" src="imagens/tensorflow-2.svg"></code>
-  <code><img title="MySql" height="25" src="imagens/mysql-ar21.svg"></code>
-  <code><img title="SQlite" height="25" src="imagens/sqlite-icon.svg"></code>
-  <code><img title="Mongodb" height="25" src="imagens/mongodb-icon-2.svg"></code>
-  <code><img title="AWS" height="25" src="imagens/aws.png"></code>
-  <code><img title="Git" height="25" src="imagens/git-original.svg"></code>
+  <code><img title="Python" height="45" src="imagens/python-5.svg"></code>
+  <code><img title="R" height="45" src="imagens/R_logo.svg"></code>
+  <code><img title="Javascript" height="45" src="imagens/logo-javascript.svg"></code>
+  <code><img title="Typescript" height="45" src="imagens/typescript.svg"></code>
+  <code><img title="C" height="45" src="imagens/C_Programming_Language.svg"></code>
+  <code><img title="C++" height="45" src="imagens/cplus.svg"></code>
+  <code><img title="Visual Studio Code" height="45" src="imagens/vscode.svg"></code>
+  <code><img title="Matlab" height="45" src="imagens/matlab.svg"></code>
+  <code><img title="React" height="45" src="imagens/react-2.svg"></code>
+  <code><img title="Node" height="45" src="imagens/nodejs-2.svg"></code>
+  <code><img title="HTML" height="45" src="imagens/html-5-logo-svgrepo-com.svg"></code>
+  <code><img title="CSS" height="45" src="imagens/CSS.3.svg"></code>
+  <code><img title="Figma" height="45" src="imagens/Figma-logo.svg"></code>
+  <code><img title="bootstrap" height="45" src="imagens/bootstrap.svg"></code>
+  <code><img title="Tailwind" height="45" src="imagens/tailwind-css-2.svg"></code>
+  <code><img title="Materialize" height="45" src="imagens/materialize.svg"></code>
+  <code><img title="Django" height="45" src="imagens/django.svg"></code>
+  <code><img title="Pytorch" height="45" src="imagens/pytorch.svg"></code>
+  <code><img title="Scikit-learn" height="45" src="imagens/scikit-learn.svg"></code>
+  <code><img title="Pandas" height="45" src="imagens/pandas.svg"></code>
+  <code><img title="OpenCV" height="45" src="imagens/opencv-svgrepo-com.svg"></code>
+  <code><img title="TensorFlow" height="45" src="imagens/tensorflow-2.svg"></code>
+  <code><img title="MySql" height="45" src="imagens/mysql-ar21.svg"></code>
+  <code><img title="SQlite" height="45" src="imagens/sqlite-icon.svg"></code>
+  <code><img title="Mongodb" height="45" src="imagens/mongodb-icon-2.svg"></code>
+  <code><img title="AWS" height="45" src="imagens/aws.png"></code>
+  <code><img title="Git" height="45" src="imagens/git-original.svg"></code>
 </p>
 <hr>
 
