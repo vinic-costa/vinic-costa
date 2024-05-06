@@ -5,9 +5,9 @@
 
 <p align="left"> <img src ="https://komarev.com/ghpvc/?username=vinic-costa&label=Profile%20views&color=0e75b6&style=flat" alt="vinic-costa" /> </p>
 
-- 🔎 Atualmente sou bolsista do UFC **Reconhecimento de cistos odontologicos em imagens de radiografia panorâmica**
+- 🔎 Atualmente sou bolsista da UFC na pesquisa: **Reconhecimento de cistos odontologicos em imagens de radiografia panorâmica**
 
-- 📚 Atualmente estou aprendendo **Ciência de Dados, Big Data e BI**
+- 📚 Focando meus estudos no momento em **Ciência de Dados, Big Data e BI**
 
 <hr>
 <h2 align="center">🔥 Linguagens | Frameworks | Ferramentas | Abilidades 🔥</h2>
