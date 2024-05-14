@@ -10,7 +10,7 @@
 - 📚 Focando meus estudos no momento em **Ciência de Dados, Big Data e BI**
 
 <hr>
-<h2 align="center">🔥 Linguagens | Frameworks | Ferramentas | Abilidades 🔥</h2>
+<h2 align="center">🔥 Linguagens | Frameworks | Ferramentas | Habilidades 🔥</h2>
 <br>
 
 <p align="center">
