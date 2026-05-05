@@ -4,10 +4,12 @@
 <h3 align="center">Um Cientista de dados em busca de insights 📊</h3>
 
 <p align="left"> <img src ="https://komarev.com/ghpvc/?username=vinic-costa&label=Profile%20views&color=0e75b6&style=flat" alt="vinic-costa" /> </p>
+ 
+- 💻​ Atualmente sou Engenheiro de Machine Learning na Aprix, gerando estudos de IA e DevOps em uma empresa focada **Precificação Inteligente**
 
-- 🔎 Atualmente sou bolsista da UFC na pesquisa: **Reconhecimento de cistos odontologicos em imagens de radiografia panorâmica**
+- 🔎 Fui bolsista da UFC na pesquisa: **Reconhecimento de cistos odontologicos em imagens de radiografia panorâmica**
 
-- 📚 Focando meus estudos no momento em **Ciência de Dados, Big Data e BI**
+- 📚 Focando meus estudos no momento em **IaC, Big Data, e pipelines**
 
 <hr>
 <h2 align="center">🔥 Linguagens | Frameworks | Ferramentas | Habilidades 🔥</h2>
